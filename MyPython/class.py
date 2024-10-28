@@ -20,6 +20,7 @@ a001 = Student_a()
 a001.average()
 
 #######
+#######
 
 
 class Student_b:
